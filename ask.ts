@@ -1,4 +1,4 @@
-// $ deno run ~/ask.ts
+// deno run https://raw.githubusercontent.com/SuperManfred/denoProjects/main/ask.ts
 import Ask from "https://deno.land/x/ask@1.0.6/mod.ts";
 
 const ask = new Ask({
