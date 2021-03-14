@@ -1,5 +1,5 @@
 # denoProjects
-just a 🦖  playing around with 🦕
+a little 🦖  playing 🦕
 
 install deno: [https://deno.land/manual@v1.8.1/getting_started/installation](https://deno.land/manual@v1.8.1/getting_started/installation) 
 
