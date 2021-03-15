@@ -5,4 +5,4 @@ install deno: [https://deno.land/manual@v1.8.1/getting_started/installation](htt
 
 open the file you want to run, see the comments then run the first line commented out command, eg:
 
-`deno run {url of any javascript file.js or typescript file.ts}`
+`deno run {url/path of javascript_file.js or typescript_file.ts}`
