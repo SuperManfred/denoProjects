@@ -1,4 +1,4 @@
-// deno run --allow-net https://raw.githubusercontent.com/SuperManfred/denoProjects/main/serve_hello_world.ts
+// deno run --allow-net https://raw.githubusercontent.com/SuperManfred/denoProjects/main/serve.ts
 
 import { serve } from "https://deno.land/std/http/server.ts";
 const server = serve({ port: 8000 });
