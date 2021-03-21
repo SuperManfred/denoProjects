@@ -5,7 +5,7 @@ import { message } from "https://raw.githubusercontent.com/SuperManfred/denoProj
 const server = serve({ port: 8000 });
 const m = message;
 console.log(
-  "view the file server output in your browser: http://localhost:8000/",
+  "view the output in the browser: http://localhost:8000/ ",
 );
 for await (const req of server) {
   req.respond({ body: "HTTP serve message: " + m });
