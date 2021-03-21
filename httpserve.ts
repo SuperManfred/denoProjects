@@ -1,4 +1,4 @@
-// deno run --allow-net https://raw.githubusercontent.com/SuperManfred/denoProjects/main/serve.ts
+// deno run --allow-net https://raw.githubusercontent.com/SuperManfred/denoProjects/main/httpserve.ts
 
 import { serve } from "https://deno.land/std/http/server.ts";
 import { message } from "https://raw.githubusercontent.com/SuperManfred/denoProjects/main/helloworld.ts";
