@@ -1,8 +1,10 @@
 {
     "deno.lint": true,
     "deno.unstable": true,
+    "deno.import_map": "./import_map.json",
     "cSpell.words": [
         "ddmmyyyy"
     ],
-    "deno.suggest.completeFunctionCalls": true
+    "deno.suggest.completeFunctionCalls": true,
+    "deno.enable": true
 }
